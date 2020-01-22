@@ -103,4 +103,7 @@ while not screen_time:
 			labela=myFont.render(texta,1,(0,0,0))
 			screena.blit(labela,(100,200))
 			pygame.display.update()
+			#
+			
+			
 	
