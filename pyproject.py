@@ -1,3 +1,5 @@
+import numpy
+import pandas
 import pygame
 import random
 import sys #exit from screen#
